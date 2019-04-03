@@ -1,2 +1,2 @@
-# image_processing_mlp
+# image-processing-mlp
 Reverse engineering image processing using a neural network
