@@ -5,3 +5,5 @@ Are you getting the "Sorry, something went wrong. Reload?" error when rendering 
 
 https://nbviewer.jupyter.org/github/gluijk/image-processing-mlp/blob/master/function-regression-mlp-practice.ipynb
 https://nbviewer.jupyter.org/github/gluijk/image-processing-mlp/blob/master/image-processing-mlp.ipynb
+
+![image-processing-mlp](/mlpanim.gif)
